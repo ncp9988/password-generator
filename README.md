@@ -1,13 +1,21 @@
-### Password Generator
+# Password Generator
 Homework 3 Assignment
-### Descripstion
+
+### Description
+
+1. Password generator
+2. Accepts length from user
+3. Length should be between 8 and 128
 
 ### Develop by
 Shelby
 
 
+![screenshot] (https://github.com/ncp9988/password-generator/blob/master/screenshot.png)
 
-# Deplyed Link 
+
+
+### Deplyed Link 
 https://ncp9988.github.io/password-generator/
 
 ### Github 
