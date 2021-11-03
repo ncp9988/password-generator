@@ -71,9 +71,13 @@ function generatePassword() {
   if ( useChoiceCharacters.length == 0) {
     return "Please choose at least one option."
   }
+var password = ""
+for(let i=1;i<=promptLength;i++){
+  var index = Math.floor(Math.random() * useChoiceCharacters.length) 
+  password += useChoiceCharacters[index]
+}
+console.log (password)
+
 
 
 }
-
-
-
