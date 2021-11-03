@@ -6,6 +6,9 @@ Homework 3 Assignment
 1. Password generator
 2. Accepts length from user
 3. Length should be between 8 and 128
+4. Accepts character 's choices from user
+5. At least one character type selected
+6. Randomly pick characters type selected base on length selected
 
 ### Develop by
 Shelby
