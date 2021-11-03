@@ -78,6 +78,6 @@ for(let i=1;i<=promptLength;i++){
 }
 console.log (password)
 
-
+return password
 
 }
