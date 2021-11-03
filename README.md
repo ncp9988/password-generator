@@ -11,7 +11,7 @@ Homework 3 Assignment
 Shelby
 
 
-![screenshot] (https://github.com/ncp9988/password-generator/blob/master/screenshot.png)
+![Screenshot](https://github.com/ncp9988/password-generator/blob/master/screenshot.png)
 
 
 
